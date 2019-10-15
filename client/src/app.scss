@@ -1,0 +1,21 @@
+.form-control[readonly] {
+  background: #fff !important;
+}
+
+.loginbox {
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  width: 500px;
+  height: 400px;
+  margin: -200px 0 0 -250px;
+}
+
+.signupbox {
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  width: 600px;
+  height: 600px;
+  margin: -300px 0 0 -300px;
+}
